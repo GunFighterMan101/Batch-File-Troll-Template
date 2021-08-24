@@ -1,0 +1,3 @@
+It may be good to note that Batch files provided will change
+New Batch files will be added
+Other file types/extensions may be provided as a bonus
